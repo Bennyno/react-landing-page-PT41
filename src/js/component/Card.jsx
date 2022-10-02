@@ -4,7 +4,7 @@ export function Card() {
     return(
         <div className="card-group">
         <div className="col-sm-3">
-          <img className="card-img-top" src="..." alt="Card image cap" />
+          <img className="card-img-top" src="https://www.pixelstalk.net/wp-content/uploads/2016/10/Blank-HD-Wallpaper.jpg" alt="Card image cap" />
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
@@ -21,7 +21,7 @@ export function Card() {
           </div>
         </div>
 		<div className="col-sm-3">
-          <img className="card-img-top" src="..." alt="Card image cap" />
+          <img className="card-img-top" src="https://www.pixelstalk.net/wp-content/uploads/2016/10/Blank-Desktop-Wallpaper.jpg" alt="Card image cap" />
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
@@ -38,7 +38,7 @@ export function Card() {
           </div>
         </div>
         <div className="col-sm-3">
-          <img className="card-img-top" src="..." alt="Card image cap" />
+          <img className="card-img-top" src="https://www.pixelstalk.net/wp-content/uploads/2016/10/Blank-HD-Wallpaper.jpg" alt="Card image cap" />
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
@@ -52,7 +52,7 @@ export function Card() {
           </div>
         </div>
         <div className="col-sm-3">
-          <img className="card-img-top" src="..." alt="Card image cap" />
+          <img className="card-img-top" src="https://www.pixelstalk.net/wp-content/uploads/2016/10/Blank-Desktop-Wallpaper.jpg" alt="Card image cap" />
           <div className="card-body">
             <h5 className="card-title">Card title</h5>
             <p className="card-text">
